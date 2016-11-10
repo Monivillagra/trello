@@ -1,0 +1,24 @@
+body{
+	background-color: blue;
+}
+.colorNav{
+	background-color: rgb(42, 123, 152);
+}
+.imgTrello{
+    background-image: url(../img/trello.png);
+    background-size: 14%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.panelWell{
+	padding: 2% 0% 0% 1%;
+    margin: 1% 85% 0% 0%;
+}
+.btnGuardar{
+    padding: 1% 2%;
+    margin: 2% 0% 0% 0%;
+}
+.btnBorrar{
+    padding: 1%;
+    margin: -26% 0% 0% 66%;
+}
